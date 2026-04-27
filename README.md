@@ -1,16 +1,22 @@
-# Personal Finance Tracker Analysis
+Rodney Jones | Data Analytics Portfolio
 
-## Project Overview
-This project analyzes personal income, expenses, and savings trends using Python. The goal was to practice real-world data analysis skills by organizing financial data, cleaning it, visualizing patterns, and identifying insights that support better decision-making.
+Welcome to my data analytics portfolio. This repository showcases projects where I apply Python, data analysis, and visualization techniques to extract meaningful insights from real-world datasets.
+
+⸻
+
+📊 Project 1: Personal Finance Tracker Analysis
+
+Overview
+
+This project analyzes personal income, expenses, and savings trends to better understand financial patterns and decision-making.
 ## Visualizations
 
 ![Personal Finance Overview](income_expense.png)
-## Key Insights
+Key Insights
 
-- Income shows a steady upward trend overall, despite a slight dip in March, indicating recovery and growth over time.
-- Expenses fluctuate across months, with a noticeable peak in April, suggesting inconsistent spending behavior.
-- Savings remain relatively stable early on but increase significantly in May, highlighting improved financial discipline.
-- The widening gap between income and expenses toward later months suggests increased potential for long-term savings.
+* Income remained relatively stable with slight fluctuations.
+* Expenses varied month-to-month, indicating inconsistent spending patterns.
+* Savings increased when expenses were controlled, showing improved financial discipline.
 ## Tools Used
 - Python
 - Pandas
@@ -38,3 +44,55 @@ This project demonstrates my ability to work with structured data, create meanin
 ## Project File
 View the notebook here:  
 [Personal Finance Tracker Analysis](./Personal_Finance_Tracker_Analysis.ipynb)
+
+Project 2: E-Commerce Sales Performance Analysis
+
+Overview
+
+This project analyzes e-commerce sales data to identify revenue trends, category performance, and profitability.
+
+Visualizations
+
+Monthly Sales Trend
+
+
+
+Sales by Category
+
+
+
+Profit by Category
+
+
+
+Key Insights
+
+Sales trends highlight fluctuations over time, indicating potential seasonality.
+
+Certain categories generate higher revenue than others.
+
+Profit analysis shows that high sales do not always translate into high profitability.
+
+Some categories significantly outperform others in both revenue and profit.
+
+🛠️ Tools & Skills
+
+Python (Pandas, Matplotlib)
+
+Data Cleaning & Transformation
+
+Exploratory Data Analysis (EDA)
+
+Data Visualization
+
+Business Insight Generation
+
+Google Colab & Google Drive
+
+GitHub
+
+📁 Project Files
+
+Personal Finance Analysis
+
+E-Commerce Sales Analysis
