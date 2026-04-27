@@ -97,4 +97,4 @@ Personal Finance Analysis
 ![Monthly Sales](monthly_sales.png)
 
 E-Commerce Sales Analysis
-![Personal Finance Overview](income_expense.png)
+![Personal Finance Overview](category_sales.png)
