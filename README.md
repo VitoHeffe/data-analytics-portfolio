@@ -94,5 +94,7 @@ GitHub
 📁 Project Files
 
 Personal Finance Analysis
+![Monthly Sales](monthly_sales.png)
 
 E-Commerce Sales Analysis
+
