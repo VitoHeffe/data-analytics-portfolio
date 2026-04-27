@@ -3,15 +3,14 @@
 ## Project Overview
 This project analyzes personal income, expenses, and savings trends using Python. The goal was to practice real-world data analysis skills by organizing financial data, cleaning it, visualizing patterns, and identifying insights that support better decision-making.
 ## Visualizations
+
+![Personal Finance Overview](income_expense.png)
 ## Key Insights
 
 - Income shows a steady upward trend overall, despite a slight dip in March, indicating recovery and growth over time.
 - Expenses fluctuate across months, with a noticeable peak in April, suggesting inconsistent spending behavior.
 - Savings remain relatively stable early on but increase significantly in May, highlighting improved financial discipline.
 - The widening gap between income and expenses toward later months suggests increased potential for long-term savings.
-
-![Personal Finance Overview](income_expense.png)
-
 ## Tools Used
 - Python
 - Pandas
