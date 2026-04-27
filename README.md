@@ -2,6 +2,9 @@
 
 ## Project Overview
 This project analyzes personal income, expenses, and savings trends using Python. The goal was to practice real-world data analysis skills by organizing financial data, cleaning it, visualizing patterns, and identifying insights that support better decision-making.
+## Visualizations
+
+![Personal Finance Overview](income_expense.png)
 
 ## Tools Used
 - Python
